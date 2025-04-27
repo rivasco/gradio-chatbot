@@ -1,0 +1,10 @@
+requests>=2.31.0
+python-dotenv>=1.0.1
+beautifulsoup4>=4.12.3
+ipython>=8.22.2
+openai>=1.60.0
+ipykernel==6.29.5
+gradio==5.27.0
+google-generativeai==0.3.2
+anthropic==0.25.2
+
