@@ -1,2 +1,3 @@
-# gradio-chatbot
-Runs a custom-made chatbot in a Gradio interface.
+# Gradio Chatbot
+
+A conversational AI chatbot that can run locally or be accessed via a public URL using Gradio.
